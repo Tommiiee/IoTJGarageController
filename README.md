@@ -13,4 +13,4 @@ another means to control your garage door.
 * You can also change the default login credentials from "admin" and "password" to something else. 
 
 ### Preview of Landing Page
-![LandingPage](https://user-images.githubusercontent.com/40500151/103262980-61682980-495b-11eb-98ec-4220e75a701a.png)
+![LandingPage](https://user-images.githubusercontent.com/40500151/103263222-17cc0e80-495c-11eb-8e7b-a5751fd22946.png)
